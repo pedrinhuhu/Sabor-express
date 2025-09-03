@@ -1,2 +1,2 @@
 # Sabor-express
-projeto em python feito durante curso da Alura
+projeto em python de um sistema de restaurante
